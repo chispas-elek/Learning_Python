@@ -1,6 +1,6 @@
 __author__ = 'administrador'
 
-# Ejercicio que hace uso de las decisiones tomadas por teclado
+# Ejercicio que hace uso de las decisiones tomadas por teclado. A partir de este archivo he empezado a usar github
 
 print "You enter a dark room with two doors. Do you go through door #1 or door #2?"
 
