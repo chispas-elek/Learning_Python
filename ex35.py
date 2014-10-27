@@ -77,3 +77,7 @@ def start():
 
 # Ejecucion principal del programa, al ser funciones el codigo llega hasta aqui y se ejecuta esto que se ve
 start()
+
+# Pass me permite hacer un bloque vacio. util para hacer un equeleto que luego debo llenar
+def vacio():
+    pass
